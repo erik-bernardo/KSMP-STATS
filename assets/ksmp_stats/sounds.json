@@ -1,0 +1,29 @@
+{
+  "powerup": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ksmp_stats:transform",
+        "stream": false
+      }
+    ]
+  },
+  "transform2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ksmp_stats:transform2",
+        "stream": false
+      }
+    ]
+  },
+  "powerdown": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ksmp_stats:untransform",
+        "stream": false
+      }
+    ]
+  }
+}
